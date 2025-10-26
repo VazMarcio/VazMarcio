@@ -5,6 +5,6 @@
 
 📱<b>(011) 97104-0548</b>
 
-<img  src ="https://cdn-icons-png.flaticon.com/512/281/281769.png" width ="20px" eight = "20px"> marciovaz67@gmail.com
+<img  src ="https://cdn-icons-png.flaticon.com/512/281/281769.png" width ="20px" eight = "20px"> githubmarcio@gmail.com
 
 

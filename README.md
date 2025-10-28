@@ -13,5 +13,5 @@
 ![Marcio Vaz GitHub stats](https://github-readme-stats.vercel.app/api?username=VazMarcio&show_icons=true&theme=radical&custom_title=Marcio%20Vaz%20GitHub%20Stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VazMarcio&stats_format=bytes&theme=radic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VazMarcio&stats_format=bytes&theme=radical)
 
